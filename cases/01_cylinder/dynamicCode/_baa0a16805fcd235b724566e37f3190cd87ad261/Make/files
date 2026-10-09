@@ -1,0 +1,3 @@
+codeBlockTemplate.C
+
+LIB = $(PWD)/../platforms/$(WM_OPTIONS)/lib/libcodeBlock_baa0a16805fcd235b724566e37f3190cd87ad261
